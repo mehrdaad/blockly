@@ -45,6 +45,6 @@
     "google-closure-library": "^20171203.0.0",
     "install": "^0.8.8",
     "npm": "^4.4.4",
-    "webdriverio": "^4.6.2"
+    "webdriverio": "^7.7.3"
   }
 }
